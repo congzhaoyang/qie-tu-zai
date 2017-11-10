@@ -1,6 +1,6 @@
-# webpack6
+# 切图仔平底锅工具
 
-> A Vue.js project
+> 切图仔欲解放双手的切图配置 
 
 ## Build Setup
 
