@@ -2,6 +2,7 @@
   <div class="page">
     <header>hello</header>
     <nav>world</nav>
+    <main>main</main>
   </div>
 </template>
 
@@ -25,6 +26,11 @@ export default {
     height: 90px; 
     width: 100%;
     background:#ddd;
+  }
+
+  main {
+    height: 100px;
+    background: lightgray;
   }
 }
 </style>
